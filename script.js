@@ -1,2 +1,2 @@
-const articles = document.querySelectorAll(".article");
-articles.forEach((article) => article.textContent = "In a free hour, when our power of choice is untrammelled and when nothing prevents our being able to do what we like best, every pleasure is to be welcomed and every pain avoided. But in certain circumstances and owing to the claims of duty or the obligations of business it will frequently occur that pleasures have to be repudiated and annoyances accepted.");
+const articles = document.querySelectorAll(".article-text");
+articles.forEach((article) => article.textContent = "In a free hour, when our power of choice is untrammelled and when nothing prevents our being able to do what we like best, every pleasure is to be welcomed and every pain avoided.");
